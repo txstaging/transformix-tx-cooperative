@@ -1,0 +1,1737 @@
+{
+  "slug": "tx-cooperative",
+  "template": false,
+  "nodes": [
+    "\n",
+    {
+      "tag": "header",
+      "attrs": {
+        "class": "top"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "container nav"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "brand"
+              },
+              "children": [
+                "TX ",
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "Cooperative"
+                  ]
+                },
+                " Platform"
+              ]
+            },
+            {
+              "tag": "nav",
+              "attrs": {
+                "class": "navlinks"
+              },
+              "children": [
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "href": "#value"
+                  },
+                  "children": [
+                    "المنصة"
+                  ]
+                },
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "href": "#experiences"
+                  },
+                  "children": [
+                    "تجربة المستخدم"
+                  ]
+                },
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "href": "#ai"
+                  },
+                  "children": [
+                    "المساعدان الذكيان"
+                  ]
+                },
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "href": "#governance"
+                  },
+                  "children": [
+                    "الحوكمة"
+                  ]
+                },
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "href": "#faq"
+                  },
+                  "children": [
+                    "الأسئلة الشائعة"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "class": "btn",
+                "href": "#demo"
+              },
+              "children": [
+                "اطلب عرضًا توضيحيًا"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "\n",
+    {
+      "tag": "main",
+      "attrs": {},
+      "children": [
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "hero"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "container"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "eyebrow"
+                  },
+                  "children": [
+                    "AI-POWERED · MEMBER-CENTRIC · GOVERNANCE"
+                  ]
+                },
+                {
+                  "tag": "h1",
+                  "attrs": {},
+                  "children": [
+                    "منصة ذكية لإدارة ",
+                    {
+                      "tag": "em",
+                      "attrs": {},
+                      "children": [
+                        "الجمعيات التعاونية"
+                      ]
+                    },
+                    "، تضع العضو في قلب الحوكمة والتحول الرقمي"
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "lead"
+                  },
+                  "children": [
+                    "TX Cooperative Platform تجمع إدارة الأعضاء والأسهم والمعاملات والتصويت الإلكتروني والتقارير والوثائق والخدمات، مع مساعدين ذكيين للعمليات والأخبار، في تجربة موحدة عبر الويب والجوال ومهيأة لاحتياجات التعاونيات السعودية."
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "heroactions"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "class": "btn",
+                        "href": "#demo"
+                      },
+                      "children": [
+                        "احجز عرضًا للمنصة ←"
+                      ]
+                    },
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "class": "btn ghost",
+                        "href": "#experiences"
+                      },
+                      "children": [
+                        "استكشف تجربة الإدارة والعضو"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "chips"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "chip"
+                      },
+                      "children": [
+                        "حوكمة ومشاركة رقمية"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "chip"
+                      },
+                      "children": [
+                        "تصويت إلكتروني"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "chip"
+                      },
+                      "children": [
+                        "تقارير متقدمة"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "chip"
+                      },
+                      "children": [
+                        "مساعدان بالذكاء الاصطناعي"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "chip"
+                      },
+                      "children": [
+                        "تطبيق ويب + جوال"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "img",
+                  "attrs": {
+                    "class": "mock",
+                    "src": "/assets/hero.webp",
+                    "alt": "تصور تسويقي للمنصة يظهر لوحة الإدارة وتطبيق العضو"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "picture-note"
+                  },
+                  "children": [
+                    "الصور تصورات تسويقية بأرقام وبيانات افتراضية، ولا تمثل شاشة إنتاج حية."
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "slot": true,
+          "pages": [
+            "home"
+          ]
+        },
+        "\n",
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "section",
+            "id": "value"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "container"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "kicker"
+                  },
+                  "children": [
+                    "قيمة المنصة"
+                  ]
+                },
+                {
+                  "tag": "h2",
+                  "attrs": {},
+                  "children": [
+                    "إدارة مؤسسية أكثر وضوحًا. تجربة عضو أقرب وأسهل."
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "intro"
+                  },
+                  "children": [
+                    "تجمع المنصة الاحتياجات اليومية لمجلس الإدارة والفرق التنفيذية والأعضاء في بيئة رقمية مترابطة، مع وصول قائم على الصلاحيات، ومعلومات تخدم القرارات والشفافية والتواصل."
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "grid"
+                  },
+                  "children": [
+                    {
+                      "tag": "article",
+                      "attrs": {
+                        "class": "card"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "ic"
+                          },
+                          "children": [
+                            "♙"
+                          ]
+                        },
+                        {
+                          "tag": "h3",
+                          "attrs": {},
+                          "children": [
+                            "حوكمة رقمية"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "إدارة سجلات العضوية والأسهم، والوثائق والاجتماعات والقرارات والتصويت الإلكتروني، في إطار يدعم التنظيم والرقابة."
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "article",
+                      "attrs": {
+                        "class": "card"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "ic"
+                          },
+                          "children": [
+                            "◎"
+                          ]
+                        },
+                        {
+                          "tag": "h3",
+                          "attrs": {},
+                          "children": [
+                            "تجربة تتمحور حول العضو"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "ملف شخصي، أسهم، أرباح، معاملات، بطاقة وشهادات، رسائل وإعلانات وطلبات خدمات، من نقطة وصول واحدة."
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "article",
+                      "attrs": {
+                        "class": "card"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "ic"
+                          },
+                          "children": [
+                            "✧"
+                          ]
+                        },
+                        {
+                          "tag": "h3",
+                          "attrs": {},
+                          "children": [
+                            "ذكاء اصطناعي عملي"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "مساعد تشغيلي للاستفسارات والتنقل والإرشاد داخل المنصة، ومساعد أخبار للمستجدات ذات الصلة بقطاع الجمعية."
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "pages": [
+            "platform"
+          ]
+        },
+        "\n",
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "section light",
+            "id": "experiences"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "container"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "kicker"
+                  },
+                  "children": [
+                    "واجهة الإدارة + بوابة الأعضاء"
+                  ]
+                },
+                {
+                  "tag": "h2",
+                  "attrs": {},
+                  "children": [
+                    "تجربتان متكاملتان داخل منصة واحدة"
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "intro"
+                  },
+                  "children": [
+                    "اختر الدور للاطلاع على قدراته؛ التفاصيل المعروضة تعكس الوظائف المؤكدة من مالك المنتج مع إمكانية ضبط الصلاحيات لكل جمعية."
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "tabs",
+                    "role": "tablist"
+                  },
+                  "children": [
+                    {
+                      "tag": "button",
+                      "attrs": {
+                        "id": "tab-admin",
+                        "role": "tab",
+                        "aria-selected": "true",
+                        "class": "active",
+                        "data-target": "admin"
+                      },
+                      "children": [
+                        "الإدارة ومجلس الإدارة"
+                      ]
+                    },
+                    {
+                      "tag": "button",
+                      "attrs": {
+                        "id": "tab-member",
+                        "role": "tab",
+                        "aria-selected": "false",
+                        "data-target": "member"
+                      },
+                      "children": [
+                        "الأعضاء والمساهمون"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "id": "admin",
+                    "class": "tab-panel active",
+                    "role": "tabpanel"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "split"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "h3",
+                              "attrs": {},
+                              "children": [
+                                "لوحة مركزية لإدارة أعمال الجمعية"
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "مؤشرات الأعضاء والأسهم والمعاملات والأرباح، وتقارير متقدمة، وخدمات وإعلانات وفعاليات ومراسلات ووثائق. مع متابعة القرارات والتصويت الإلكتروني وفق الإجراءات المعتمدة."
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "feature-list"
+                              },
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "feature"
+                                  },
+                                  "children": [
+                                    "إدارة الأعضاء والمساهمين"
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "feature"
+                                  },
+                                  "children": [
+                                    "الأسهم والمعاملات"
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "feature"
+                                  },
+                                  "children": [
+                                    "الأرباح والتوزيعات"
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "feature"
+                                  },
+                                  "children": [
+                                    "تقارير ولوحات بيانات"
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "feature"
+                                  },
+                                  "children": [
+                                    "التصويت الإلكتروني والقرارات"
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "feature"
+                                  },
+                                  "children": [
+                                    "الفعاليات والإعلانات والطلبات"
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "feature"
+                                  },
+                                  "children": [
+                                    "المراسلات والوثائق"
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "feature"
+                                  },
+                                  "children": [
+                                    "إدارة الصلاحيات"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "src": "/assets/governance.webp",
+                            "alt": "تصور لوحة حوكمة وإدارة الجمعيات التعاونية"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "id": "member",
+                    "class": "tab-panel",
+                    "role": "tabpanel"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {
+                        "class": "split"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "h3",
+                              "attrs": {},
+                              "children": [
+                                "بوابة رقمية تمنح العضو رؤية واضحة"
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "يصل العضو إلى بيانات عضويته، والأسهم المملوكة وقيمتها، والأرباح وسجل المعاملات، إلى جانب بطاقة العضوية والشهادة والإعلانات والطلبات والرسائل والفعاليات."
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "feature-list"
+                              },
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "feature"
+                                  },
+                                  "children": [
+                                    "بيانات العضوية"
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "feature"
+                                  },
+                                  "children": [
+                                    "الأسهم والقيمة الإجمالية"
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "feature"
+                                  },
+                                  "children": [
+                                    "الأرباح والسجل المالي"
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "feature"
+                                  },
+                                  "children": [
+                                    "بحث وتصفية المعاملات"
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "feature"
+                                  },
+                                  "children": [
+                                    "بطاقة وشهادة العضوية"
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "feature"
+                                  },
+                                  "children": [
+                                    "الرسائل والإعلانات"
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "feature"
+                                  },
+                                  "children": [
+                                    "طلبات الخدمات والفعاليات"
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "feature"
+                                  },
+                                  "children": [
+                                    "العربية والإنجليزية"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "src": "/assets/member.webp",
+                            "alt": "تصور تجربة العضو على تطبيق الجوال"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "pages": [
+            "experiences"
+          ]
+        },
+        "\n",
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "section",
+            "id": "ai"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "container"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "kicker"
+                  },
+                  "children": [
+                    "Artificial Intelligence"
+                  ]
+                },
+                {
+                  "tag": "h2",
+                  "attrs": {},
+                  "children": [
+                    "مساعدان ذكيان، قيمة مضافة في كل تفاعل"
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "intro"
+                  },
+                  "children": [
+                    "الذكاء الاصطناعي جزء من تجربة المنصة: يسهل الوصول إلى المعرفة الداخلية، ويساعد في متابعة ما يهم الجمعية خارجها."
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "split"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "ai-box"
+                          },
+                          "children": [
+                            {
+                              "tag": "h3",
+                              "attrs": {},
+                              "children": [
+                                "المساعد التشغيلي الذكي · Copilot"
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "يساعد المستخدم على الاستفسار عن البيانات والعمليات المتاحة حسب صلاحياته، وفهم الإجراءات، والتنقل إلى الخدمات المرتبطة بالسؤال."
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "example"
+                              },
+                              "children": [
+                                "«ما آخر معاملة تمت على حسابي؟»"
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "example"
+                              },
+                              "children": [
+                                "«كيف أصل إلى شهادة العضوية؟»"
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "example"
+                              },
+                              "children": [
+                                "«اعرض أحدث الطلبات أو الإعلانات»"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "card",
+                            "style": "margin-top:13px"
+                          },
+                          "children": [
+                            {
+                              "tag": "h3",
+                              "attrs": {},
+                              "children": [
+                                "مساعد الأخبار الذكي"
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attrs": {},
+                              "children": [
+                                "يعرض ويُلخص أخبار ومتابعات مرتبطة بنشاط الجمعية. الأخبار السياحية مثال لإعداد قطاعي؛ ويمكن تهيئته لأنشطة أخرى، مع إبراز المصدر وتاريخ النشر والمراجعة البشرية عند الحاجة."
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "src": "/assets/ai.webp",
+                        "alt": "تصور المساعد التشغيلي ومساعد الأخبار داخل تطبيق الأعضاء"
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "pages": [
+            "assistants"
+          ]
+        },
+        "\n",
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "section light",
+            "id": "governance"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "container"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "kicker"
+                  },
+                  "children": [
+                    "الحوكمة والبيئة التنظيمية"
+                  ]
+                },
+                {
+                  "tag": "h2",
+                  "attrs": {},
+                  "children": [
+                    "مصممة لدعم احتياجات التعاونيات السعودية"
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "intro"
+                  },
+                  "children": [
+                    "تربط المنصة إدارة العضوية والأسهم والمعلومات والوثائق والاجتماعات والتصويت والتقارير بأهداف الحوكمة وتجربة العضو، في سياق التحول الرقمي ورؤية السعودية 2030 وعام الذكاء الاصطناعي 2026. الالتزام التفصيلي يعتمد على إعدادات كل جمعية ولوائحها وتقييم التطبيق الفعلي."
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "grid"
+                  },
+                  "children": [
+                    {
+                      "tag": "article",
+                      "attrs": {
+                        "class": "card"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "ic"
+                          },
+                          "children": [
+                            "⚖"
+                          ]
+                        },
+                        {
+                          "tag": "h3",
+                          "attrs": {},
+                          "children": [
+                            "قرارات ومشاركة"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "إدارة القرارات وآليات التصويت الإلكتروني وتجهيز المخرجات اللازمة لمشاركة الأعضاء وفق الإجراءات النظامية."
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "article",
+                      "attrs": {
+                        "class": "card"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "ic"
+                          },
+                          "children": [
+                            "▣"
+                          ]
+                        },
+                        {
+                          "tag": "h3",
+                          "attrs": {},
+                          "children": [
+                            "تقارير ووثائق"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "لوحات متابعة وتقارير متقدمة، إلى جانب مستندات وتقارير تعرض بحسب دور المستخدم وصلاحياته."
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "article",
+                      "attrs": {
+                        "class": "card"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "ic"
+                          },
+                          "children": [
+                            "🔐"
+                          ]
+                        },
+                        {
+                          "tag": "h3",
+                          "attrs": {},
+                          "children": [
+                            "الخصوصية والحماية"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "التحقق من الهوية وسياسة خصوصية معلنة، مع ضبط الوصول؛ تفاصيل الاستضافة وضوابط الأمن وشهادات المطابقة تُنشر فقط بعد توثيقها."
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "style": "margin-top:20px;color:#677b89;font-size:12px"
+                  },
+                  "children": [
+                    "مراجع تنظيمية: ",
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "style": "text-decoration:underline",
+                        "href": "https://www.uqn.gov.sa/decisions-and-regulations/4001869",
+                        "target": "_blank",
+                        "rel": "noopener"
+                      },
+                      "children": [
+                        "نظام التعاونيات المنشور في أم القرى"
+                      ]
+                    },
+                    ". المنصة ليست جهة تنظيمية ولا يُفهم من هذا المحتوى وجود اعتماد حكومي خاص بها."
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "pages": [
+            "governance"
+          ]
+        },
+        "\n",
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "section"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "container"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "kicker"
+                  },
+                  "children": [
+                    "Web & Mobile"
+                  ]
+                },
+                {
+                  "tag": "h2",
+                  "attrs": {},
+                  "children": [
+                    "نفس التجربة المؤسسية، عبر المتصفح وتطبيق الجوال"
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "split"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "تخدم واجهة الويب مهام الإدارة والمتابعة، ويمنح تطبيق الجوال الأعضاء وصولًا ملائمًا إلى البيانات والمعاملات والأخبار والخدمات. تتوفر الواجهات بالعربية مع دعم الإنجليزية، بحسب إعداد الجمعية."
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "tags"
+                          },
+                          "children": [
+                            {
+                              "tag": "span",
+                              "attrs": {},
+                              "children": [
+                                "Web App"
+                              ]
+                            },
+                            {
+                              "tag": "span",
+                              "attrs": {},
+                              "children": [
+                                "Member Mobile App"
+                              ]
+                            },
+                            {
+                              "tag": "span",
+                              "attrs": {},
+                              "children": [
+                                "Administration Dashboard"
+                              ]
+                            },
+                            {
+                              "tag": "span",
+                              "attrs": {},
+                              "children": [
+                                "Android & iOS"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {
+                            "style": "font-size:12px;color:#667b89;margin-top:18px"
+                          },
+                          "children": [
+                            "توضع روابط App Store وGoogle Play بعد استلام الروابط الرسمية الخاصة بالنسخة التجارية المنشورة، دون استخدام روابط افتراضية."
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "src": "/assets/hero.webp",
+                        "alt": "المنصة على الويب والجوال"
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "pages": [
+            "mobile",
+            "platform"
+          ]
+        },
+        "\n",
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "section light",
+            "id": "demo"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "container"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "cta"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "pill",
+                            "style": "color:#b6fff1;border-color:#3c9f9c"
+                          },
+                          "children": [
+                            "طلب عرض توضيحي"
+                          ]
+                        },
+                        {
+                          "tag": "h2",
+                          "attrs": {},
+                          "children": [
+                            "استكشف كيف يمكن للمنصة خدمة جمعيتكم"
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {},
+                          "children": [
+                            "اعرض لنا طبيعة جمعيتكم والوظائف التي تهمكم، وسنناقش تجربة الإدارة والأعضاء والمساعدين الذكيين والتخصيص والتكاملات."
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attrs": {
+                            "style": "font-size:13px"
+                          },
+                          "children": [
+                            "للفريق التقني: اربط النموذج بـ CRM / API آمن، مع موافقة الخصوصية وحماية البيانات ومنع الإرسال المتكرر. هذه النسخة للعرض فقط."
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "form",
+                      "attrs": {
+                        "id": "lead-form"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attrs": {
+                            "class": "form-grid"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "tag": "label",
+                                  "attrs": {
+                                    "for": "name"
+                                  },
+                                  "children": [
+                                    "الاسم *"
+                                  ]
+                                },
+                                {
+                                  "tag": "input",
+                                  "attrs": {
+                                    "id": "name",
+                                    "required": null,
+                                    "placeholder": "الاسم الكامل",
+                                    "autocomplete": "name"
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "tag": "label",
+                                  "attrs": {
+                                    "for": "org"
+                                  },
+                                  "children": [
+                                    "اسم الجمعية *"
+                                  ]
+                                },
+                                {
+                                  "tag": "input",
+                                  "attrs": {
+                                    "id": "org",
+                                    "required": null,
+                                    "placeholder": "اسم الجمعية التعاونية"
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "tag": "label",
+                                  "attrs": {
+                                    "for": "role"
+                                  },
+                                  "children": [
+                                    "الصفة"
+                                  ]
+                                },
+                                {
+                                  "tag": "select",
+                                  "attrs": {
+                                    "id": "role"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "option",
+                                      "attrs": {},
+                                      "children": [
+                                        "رئيس / عضو مجلس إدارة"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "option",
+                                      "attrs": {},
+                                      "children": [
+                                        "إدارة تنفيذية"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "option",
+                                      "attrs": {},
+                                      "children": [
+                                        "تقنية المعلومات"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "option",
+                                      "attrs": {},
+                                      "children": [
+                                        "أخرى"
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "tag": "label",
+                                  "attrs": {
+                                    "for": "members"
+                                  },
+                                  "children": [
+                                    "حجم العضوية التقريبي"
+                                  ]
+                                },
+                                {
+                                  "tag": "select",
+                                  "attrs": {
+                                    "id": "members"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "option",
+                                      "attrs": {},
+                                      "children": [
+                                        "أقل من 100 عضو"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "option",
+                                      "attrs": {},
+                                      "children": [
+                                        "100–500 عضو"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "option",
+                                      "attrs": {},
+                                      "children": [
+                                        "501–2000 عضو"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "option",
+                                      "attrs": {},
+                                      "children": [
+                                        "أكثر من 2000 عضو"
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "tag": "label",
+                                  "attrs": {
+                                    "for": "email"
+                                  },
+                                  "children": [
+                                    "البريد الإلكتروني *"
+                                  ]
+                                },
+                                {
+                                  "tag": "input",
+                                  "attrs": {
+                                    "id": "email",
+                                    "type": "email",
+                                    "required": null,
+                                    "placeholder": "example@organization.sa",
+                                    "autocomplete": "email"
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "tag": "label",
+                                  "attrs": {
+                                    "for": "phone"
+                                  },
+                                  "children": [
+                                    "رقم التواصل *"
+                                  ]
+                                },
+                                {
+                                  "tag": "input",
+                                  "attrs": {
+                                    "id": "phone",
+                                    "type": "tel",
+                                    "required": null,
+                                    "placeholder": "+966 ..."
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "wide"
+                              },
+                              "children": [
+                                {
+                                  "tag": "label",
+                                  "attrs": {
+                                    "for": "interests"
+                                  },
+                                  "children": [
+                                    "مجالات الاهتمام"
+                                  ]
+                                },
+                                {
+                                  "tag": "select",
+                                  "attrs": {
+                                    "id": "interests"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "option",
+                                      "attrs": {},
+                                      "children": [
+                                        "عرض شامل للمنصة"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "option",
+                                      "attrs": {},
+                                      "children": [
+                                        "الحوكمة والتصويت"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "option",
+                                      "attrs": {},
+                                      "children": [
+                                        "تجربة العضو وتطبيق الجوال"
+                                      ]
+                                    },
+                                    {
+                                      "tag": "option",
+                                      "attrs": {},
+                                      "children": [
+                                        "التقارير والذكاء الاصطناعي"
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "wide"
+                              },
+                              "children": [
+                                {
+                                  "tag": "label",
+                                  "attrs": {},
+                                  "children": [
+                                    {
+                                      "tag": "input",
+                                      "attrs": {
+                                        "id": "consent",
+                                        "type": "checkbox",
+                                        "required": null,
+                                        "style": "width:auto;vertical-align:middle;margin-left:6px"
+                                      },
+                                      "children": []
+                                    },
+                                    "أوافق على استخدام بيانات التواصل للرد على طلبي وفق سياسة الخصوصية."
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attrs": {
+                                "class": "wide"
+                              },
+                              "children": [
+                                {
+                                  "tag": "button",
+                                  "attrs": {
+                                    "class": "btn",
+                                    "type": "submit",
+                                    "style": "width:100%"
+                                  },
+                                  "children": [
+                                    "تجهيز طلب العرض"
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "id": "form-message",
+                                    "class": "toast",
+                                    "role": "status"
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "tag": "div",
+                                  "attrs": {
+                                    "class": "form-info"
+                                  },
+                                  "children": [
+                                    "نموذج تجريبي: لا يرسل بياناتك إلى خادم. عند الإرسال سيتم تنزيل مسودة الطلب محليًا."
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "pages": [
+            "demo"
+          ]
+        },
+        "\n",
+        {
+          "tag": "section",
+          "attrs": {
+            "class": "section faq",
+            "id": "faq"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "container"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "kicker"
+                  },
+                  "children": [
+                    "الأسئلة الشائعة"
+                  ]
+                },
+                {
+                  "tag": "h2",
+                  "attrs": {},
+                  "children": [
+                    "إجابات مختصرة"
+                  ]
+                },
+                {
+                  "tag": "details",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "tag": "summary",
+                      "attrs": {},
+                      "children": [
+                        "هل توجد واجهة مستقلة للإدارة وأخرى للأعضاء؟"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "نعم؛ لوحات إدارة ومتابعة للجمعية، وبوابة ويب وجوال للأعضاء، مع صلاحيات تناسب كل دور."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "details",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "tag": "summary",
+                      "attrs": {},
+                      "children": [
+                        "هل تشمل المنصة التصويت الإلكتروني والتقارير المتقدمة؟"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "نعم، أكد مالك المنتج إتاحتهما. تُضبط الإجراءات والصلاحيات وفق متطلبات كل جمعية، ويُراجع نطاق التطبيق أثناء العرض الفني."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "details",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "tag": "summary",
+                      "attrs": {},
+                      "children": [
+                        "هل الأخبار السياحية جزء ثابت من المنصة؟"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "لا. السياحة مثال حالي لتطبيق المساعد الإخباري، ويمكن تخصيص الأخبار بحسب نشاط الجمعية واهتمامات أعضائها."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "details",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "tag": "summary",
+                      "attrs": {},
+                      "children": [
+                        "هل المنصة معتمدة حكوميًا أو حاصلة على شهادة أمنية محددة؟"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "لا ندعي اعتمادًا أو شهادة بعينها دون وثائق. يمكن للفريق تقديم تفاصيل الضوابط المتاحة والاستضافة وخطة الامتثال أثناء التقييم الفني."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "content": true,
+          "pages": [
+            "resources"
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "footer",
+      "attrs": {},
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "container footer-inner"
+          },
+          "children": [
+            {
+              "tag": "span",
+              "attrs": {},
+              "children": [
+                "TX Cooperative Platform · Transformix"
+              ]
+            },
+            {
+              "tag": "span",
+              "attrs": {},
+              "children": [
+                "تصور تسويقي للمنتج — الواجهات والأرقام الظاهرة في الصور توضيحية"
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "#demo"
+              },
+              "children": [
+                "اطلب العرض التوضيحي ↑"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": {
+    "#value": "/platform",
+    "#experiences": "/experiences",
+    "#admin": "/experiences#admin",
+    "#member": "/experiences#member",
+    "#ai": "/assistants",
+    "#governance": "/governance",
+    "#demo": "/demo",
+    "#faq": "/resources"
+  },
+  "extracts": {},
+  "title": "TX Cooperative Platform | منصة التعاونيات الذكية من Transformix",
+  "description": "TX Cooperative Platform: منصة مدعومة بالذكاء الاصطناعي لإدارة أعضاء ومساهمي الجمعيات التعاونية والحوكمة والتصويت الإلكتروني والتقارير وتجربة العضو عبر الويب والجوال."
+}
